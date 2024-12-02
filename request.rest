@@ -1,0 +1,12 @@
+# User Baru
+# POST http://localhost:5000/login
+# Content-Type: application/json
+
+# {
+#     "email": "fadzar@gmail.com",
+#     "password": "1234"
+# }
+
+
+# logout
+DELETE http://localhost:5000/logout
